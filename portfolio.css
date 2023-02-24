@@ -14,7 +14,7 @@
 
 }
 body {
-    background-color: #ccccff;
+    background-color: white;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -36,7 +36,7 @@ body {
 .left {
 
     position: initial;
-    background-color: #d9d9d9;
+    background-color: white;
     padding: 20px;
  
 }
@@ -44,7 +44,7 @@ body {
 .right,.table {
 
     position: initial;
-    background-color:#b3ecff ;
+    background-color:white ;
     padding: 20px;
 }
 
@@ -73,7 +73,7 @@ td,th
     background-color:#ffb3e6;
 }
 #name {
-	color:#4d0066;
+	color:black;
 	font-weight:bold;
 	font-family:Arial, sans-serif;
 	text-align:center;
